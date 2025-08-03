@@ -1,0 +1,2 @@
+v1	named	intermediary
+METHOD	com/example/example_mod/mixin/ServerMixin	()Lnet/minecraft/server/command/handler/CommandRegistry;	getCommandHandler	getCommandHandler

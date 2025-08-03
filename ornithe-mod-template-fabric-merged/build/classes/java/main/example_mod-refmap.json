@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/example/example_mod/mixin/CommandManagerMixin": {
+      "<init>": "Lnet/minecraft/unmapped/C_5335372;<init>()V"
+    },
+    "com/example/example_mod/mixin/TitleScreenMixin": {
+      "init": "Lnet/minecraft/unmapped/C_8938952;m_3593494()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/example/example_mod/mixin/CommandManagerMixin": {
+        "<init>": "Lnet/minecraft/unmapped/C_5335372;<init>()V"
+      },
+      "com/example/example_mod/mixin/TitleScreenMixin": {
+        "init": "Lnet/minecraft/unmapped/C_8938952;m_3593494()V"
+      }
+    }
+  }
+}
